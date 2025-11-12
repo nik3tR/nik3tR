@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Niket</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-
-- 🔭 I’m currently working on **BrightShift**
-
-- 🌱 I’m currently learning **AWS and Machine Learning**
+<h1 align="left">Hi 👋, I'm Niket</h1>
 
 - 👨‍💻 All of my projects are available at [niketrathod.com](niketrathod.com)
 
-- 📫 How to reach me **niket.rathod@gmail.com**
+- 📫 reach me at **niket.rathod@gmail.com**
 
 - ⚡ Fun fact **i think i am so funny**
 
